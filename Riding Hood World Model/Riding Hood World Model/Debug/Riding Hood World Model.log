@@ -1,0 +1,13 @@
+﻿  AMGLib.cpp
+  The contents of <syncstream> are available only with C++20 or later.
+D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Libraries\AMGLib.cpp(162,36): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Libraries\AMGLib.cpp(181,36): warning C4018: '<=': signed/unsigned mismatch
+D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Libraries\AMGLib.cpp(300,5): warning C4018: '>': signed/unsigned mismatch
+D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Libraries\AMGLib.cpp(309,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  WorldModel.cpp
+  The contents of <syncstream> are available only with C++20 or later.
+D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Libraries\WorldModel.cpp(1092,34): warning C4101: 'Except': unreferenced local variable
+  Riding Hood World Model.cpp
+  The contents of <syncstream> are available only with C++20 or later.
+  Generating Code...
+  Riding Hood World Model.vcxproj -> D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Riding Hood World Model\Debug\Riding Hood World Model.exe

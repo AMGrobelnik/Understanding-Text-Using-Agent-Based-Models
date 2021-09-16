@@ -1,0 +1,12 @@
+﻿  AMGLib.cpp
+  The contents of <syncstream> are available only with C++20 or later.
+  WorldModel.cpp
+  The contents of <syncstream> are available only with C++20 or later.
+D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Libraries\WorldModel.cpp(1092,34): warning C4101: 'Except': unreferenced local variable
+  Riding Hood World Model.cpp
+  The contents of <syncstream> are available only with C++20 or later.
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Riding Hood World Model.vcxproj -> D:\Users\Adrian\Dropbox (AI Lab)\Dev\C++\CommonSenseAI\Understanding-Text-Using-Agent-Based-Models\Riding Hood World Model\x64\Release\Riding Hood World Model.exe
